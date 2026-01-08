@@ -1,0 +1,5 @@
+{
+  "name": "文理小钱包",
+  "description": "基于NoSQL思想设计的个人财务管理系统，支持多用户管理、账单CRUD及数据可视化。",
+  "requestFramePermissions": []
+}
